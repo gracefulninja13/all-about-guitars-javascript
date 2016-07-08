@@ -1,0 +1,35 @@
+#page2{
+    color:darkgoldenrod;
+    font-size:55px;
+    text-align: center;
+}
+
+#guitarpick{
+    font-size:40px;
+}
+
+
+
+body {
+    background-color: aqua
+}
+
+#hidden-image{
+    visibility: hidden
+}
+
+
+
+#text1{
+    color: black
+    }
+
+
+#tuner{
+   font-size:40px;
+}
+
+
+#amp{
+    font-size:40px;
+}
